@@ -1,5 +1,5 @@
-Olá! Meu nome e Joao Paulo.
-Desenvolvedor iniciante
+# Olá! Meu nome e Joao Paulo.
+**Desenvolvedor iniciante.**
 Com apenas 15 anos, o João passa horas no quarto com o computador ligado, dividindo a tela entre tutoriais do YouTube, fóruns e seu editor de código (VS Code). Ele tem aquela curiosidade natural de quem não quer apenas usar a tecnologia, mas quer entender como ela funciona por trás da tela.
 
 <p align="left">
